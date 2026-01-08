@@ -1,0 +1,2 @@
+# mijnblog
+domme gedachten
